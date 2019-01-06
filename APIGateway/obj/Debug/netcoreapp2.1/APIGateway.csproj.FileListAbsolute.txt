@@ -1,0 +1,14 @@
+C:\Sites\HomeNexus\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.deps.json
+C:\Sites\HomeNexus\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.json
+C:\Sites\HomeNexus\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.dev.json
+C:\Sites\HomeNexus\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.dll
+C:\Sites\HomeNexus\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.pdb
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csprojAssemblyReference.cache
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.CoreCompileInputs.cache
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cache
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cs
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfoInputs.cache
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfo.cs
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.dll
+C:\Sites\HomeNexus\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.pdb
