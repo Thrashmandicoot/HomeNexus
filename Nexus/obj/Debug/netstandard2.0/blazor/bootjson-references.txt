@@ -9,4 +9,3 @@ mscorlib.dll
 System.Core.dll
 System.dll
 System.Net.Http.dll
-Nexus.pdb

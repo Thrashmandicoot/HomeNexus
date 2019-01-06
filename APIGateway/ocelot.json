@@ -1,6 +1,18 @@
 {
-	"ReRoutes": [],
+	"ReRoutes": [
+		{
+			"DownstreamPathTemplate": "/{url}",
+			"DownstreamScheme": "http",
+			"DownstreamHostAndPorts": [
+				{
+					"Host": "localhost",
+					"Port": 5000
+				}
+			],
+			"UpstreamPathTemplate": "/{url}"
+		}
+	],
 	"GlobalConfiguration": {
-		"BaseUrl": "https://local-homenexus.ilgqa.com"
+		"BaseUrl": "http://localhost:3000"
 	}
 }
