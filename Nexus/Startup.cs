@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Blazor.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace HomeNexus.Home
+namespace Nexus
 {
     public class Startup
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Blazor.Hosting;
 
-namespace HomeNexus.Home
+namespace Nexus
 {
     public class Program
     {

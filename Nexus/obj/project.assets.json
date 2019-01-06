@@ -662,11 +662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sites\\HomeNexus\\HomeNexus.Home\\HomeNexus.Home.csproj",
-      "projectName": "HomeNexus.Home",
-      "projectPath": "C:\\Sites\\HomeNexus\\HomeNexus.Home\\HomeNexus.Home.csproj",
+      "projectUniqueName": "C:\\Sites\\HomeNexus\\Nexus\\Nexus.csproj",
+      "projectName": "Nexus",
+      "projectPath": "C:\\Sites\\HomeNexus\\Nexus\\Nexus.csproj",
       "packagesPath": "C:\\Users\\Ashton Alexander\\.nuget\\packages\\",
-      "outputPath": "C:\\Sites\\HomeNexus\\HomeNexus.Home\\obj\\",
+      "outputPath": "C:\\Sites\\HomeNexus\\Nexus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
