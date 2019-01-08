@@ -19,6 +19,9 @@ namespace APIGateway {
             .ConfigureAppConfiguration ((host, config) => {
                 config.AddJsonFile ("ocelot.json");
             })
-            .UseStartup<Startup> ();
+            .UseStartup<Startup> ()
+            .ConfigureKestrel ((context, options) => {
+                // Set properties and call methods on options
+            });
     }
 }
